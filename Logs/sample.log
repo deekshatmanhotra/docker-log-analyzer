@@ -1,0 +1,10 @@
+INFO Server started
+INFO User ubuntu logged in
+WARNING High memory usage
+ERROR Database connection failed
+Failed password for admin from 192.168.1.20
+Failed password for admin from 192.168.1.20
+INFO Request completed
+ERROR Connection timeout
+Failed password for admin from 10.0.0.15
+INFO Server stopped
