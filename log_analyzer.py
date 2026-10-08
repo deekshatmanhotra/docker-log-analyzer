@@ -15,9 +15,6 @@ levels = {
 
 selected_level = levels.get(log_level.upper(), 1)
 
-
-failed_users={}
-failed_ip={}
 with open(file, 'r', encoding='UTF-8') as f:
     for line in f:
         line_level = line.split()[0]
